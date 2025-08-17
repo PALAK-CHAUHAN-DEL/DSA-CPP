@@ -4,7 +4,7 @@
 #include <deque>
 using namespace std;
 
-int main (){
+int main () {
     deque <int> dq = {1, 2, 3, 4, 5};
     queue <int> q(dq);
     while (!q.empty()) { // here the () after the empty function are called function call operator.

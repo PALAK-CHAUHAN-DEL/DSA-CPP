@@ -14,16 +14,16 @@ int binarySearch ( vector<int>vec, int target) {
             return mid;
         }
         if (vec [start] <= vec [mid] ) { // if left array is sorted
-            if (vec[start] >= target && target <= vec[mid]) { // if target lies in the left sorted array
+            if (vec[start] <= target && target <= vec[mid]) { // if target lies in the left sorted array
                 end = mid - 1;
             } else {
                 start = mid + 1;
             } 
         } else { // right sorted
                if(vec [mid] <= target && target <= vec[end]) {
-                start = mid + 1;
-               } else {
-                end = mid - 1;
+                start = mid + 1;  // if it comes out to be true then do this
+               } else { // basically check in the rotated part.
+                end = mid - 1; // if it comes out to be false then do this
                }
         }
     } return -1;

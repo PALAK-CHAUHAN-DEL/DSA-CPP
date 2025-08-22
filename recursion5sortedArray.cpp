@@ -1,4 +1,6 @@
 // Using recursion check if the array is sorted or not.Just watch lec 43 for explanatiion.
+// Time Complexity : O(n)
+// Space Complexity : O(n)
 #include<iostream>
 #include <vector>
 using namespace std;

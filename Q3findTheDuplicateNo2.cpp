@@ -1,4 +1,4 @@
-//This is the correct approach acc to the q on leetcode, for other details refer to it's 1st part.
+//This is the correct approach acc to the 287 on leetcode, for other details refer to it's 1st part.
 // Just watch lec 38 for explanation, we'll be solving it with the help of listed pointers.This is also called the slow and fast approach.
 #include <iostream>
 #include <vector>

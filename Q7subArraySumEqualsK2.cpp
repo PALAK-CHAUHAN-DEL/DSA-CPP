@@ -1,4 +1,4 @@
-// Problem 520 on leetcode, watch lec 41 for explanation, this is an optimised approach to this prob.
+// Problem 560 on leetcode, watch lec 41 for explanation, this is an optimised approach to this prob.
 // There will be no use of nested loop here. This is called the prefix sum approach. It will be used at many other places.
 // All what i am saying is just try to understand it well...
 #include <iostream>

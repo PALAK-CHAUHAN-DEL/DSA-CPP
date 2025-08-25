@@ -1,4 +1,4 @@
-// Problem 520 on leetcode, watch lec 41 for explanation, is the brute force approach.
+// Problem 560 on leetcode, watch lec 41 for explanation, is the brute force approach.
 #include <iostream>
 #include <vector>
 using namespace std;

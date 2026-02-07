@@ -1,4 +1,4 @@
-// write a code to find the max sum of a subarray using teh brute force approach.
+// write a code to find the max sum of a subarray using the brute force approach.
 // check pg 36B and watch dsa series lec 10 for more explaination
 // try to understand and off all write it yourself!...Come on kiddo!
 #include <iostream>

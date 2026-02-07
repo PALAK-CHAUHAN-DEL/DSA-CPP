@@ -21,5 +21,5 @@ int main () {
     }    
     return 0;
 }
- /* output of sizeof (marks) is 20 and when it is divides by the size of integer we get the size of the 
-    array....as size of array just gave us teh amount of space the array consumed!*/
+ /* output of sizeof (marks) is 20 and when it is divided by the size of integer we get the size of the 
+    array....as size of array just gave us the amount of space the array consumed!*/

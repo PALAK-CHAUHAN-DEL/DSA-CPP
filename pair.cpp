@@ -1,4 +1,4 @@
-//To understand the comcept of pairs, watch lec 27.
+//To understand the concept of pairs, watch lec 27.
 #include <iostream>
 #include <vector>
 using namespace std;

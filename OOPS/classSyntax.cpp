@@ -28,7 +28,7 @@ public: // To keep the use of properties available even outside the class..
     double getSalary () {  // check notes for explanation.
         return salary;
     }   
-};
+};  // THIS IS THE SEMICOLON WE WERE TALIKNG ABT IN NOTES.
 
 int main () {
     teacher t1; // object...real world entity

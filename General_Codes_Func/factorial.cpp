@@ -1,5 +1,5 @@
-// print factirial of a number
-// try to write it yourself...not a big deal...
+// print factorial of a number
+// try to write it yourself...not a big deal...done on (27/1/26)
 #include <iostream>
 using namespace std;
 int main () {
@@ -11,6 +11,4 @@ int main () {
         fact *= i;}
         cout << fact;
         return 0;
-    
-    
 }

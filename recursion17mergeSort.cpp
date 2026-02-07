@@ -1,4 +1,4 @@
-// Watch lec 51 for explanation. Merge sort works on the technique of divide and conquer.
+// Watch lec 51 for explanation. Merge sort works on the technique of divide and conquer. Just dry run it, gpt will give wrong steps of dry run initially.
 // Merge sort is a technique using which any linear structure can be sorted in ascending or descending order....it uses recursion and backtracking.
 #include <iostream>
 #include <vector>
@@ -46,4 +46,7 @@ int main () {
     }
     return 0;
 }
+
+/* Cuz merge sort has a SC of O(n) due to the temporary arrays used for merging.
+whereas quicksort has O(log n) which is better so it is preffered...watch lec for moreexplanation or ask teacher abt the SC of both merge and quick sort.*/
 
